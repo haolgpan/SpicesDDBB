@@ -10,7 +10,7 @@ import java.util.Arrays;
  */
 public class ReadSpiceCsv {
     public static void ReadCsv() throws IOException {
-        try (CSVReader csvReader = new CSVReader(new FileReader("C:\\Users\\Hao\\Documents\\DAM 6 Acces\\ACB\\SPICES\\resources\\spices.csv"))) {
+        try (CSVReader csvReader = new CSVReader(new FileReader("C:\\Users\\Hao\\Documents\\DAM 6 Acces\\ACB\\resources\\spices.csv"))) {
             String[] values = null;
             while ((values = csvReader.readNext()) != null) {
                 SpiceMain.spices.add(Arrays.asList(values));
