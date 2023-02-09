@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ConnectionFactory"},{"p":"<Unnamed>","l":"ReadSpiceCsv"},{"p":"<Unnamed>","l":"SpiceController"},{"p":"<Unnamed>","l":"SpiceMain"},{"p":"<Unnamed>","l":"SpiceMenu"}];updateSearchResults();
